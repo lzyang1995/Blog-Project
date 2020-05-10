@@ -11,7 +11,7 @@ images: ["/images/basic-markdown-syntax/featured-image.png"]
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
-featuredImage: "/images/basic-markdown-syntax/featured-image.png"
+featuredImage: "images/basic-markdown-syntax/featured-image.png"
 
 lightgallery: true
 ---
