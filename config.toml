@@ -43,6 +43,8 @@ theme = "loveit"
   [params.page.share]
     enable = true
     Weibo = true
+  [params.page.math]
+    enable = false
 
 [menu]
   [[menu.main]]
