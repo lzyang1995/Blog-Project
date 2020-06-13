@@ -3,7 +3,7 @@ title: "使用Hugo+GitHub Pages构建博客网站"
 date: 2020-05-09T20:22:16+08:00
 draft: false
 featuredImage: "/images/Hugo-Blog/hugo-logo-wide.png"
-tags: ["Hugo", "Github Pages"]
+tags: ["Hugo", "GitHub Pages"]
 categories: ["博客搭建"]
 lightgallery: true
 ---
