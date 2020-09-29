@@ -38,7 +38,7 @@ function bfs(v) {
         const current = queue.shift();
         print(current);
 
-        for each vertex w in v's adjacency list {
+        for each vertex w in current's adjacency list {
             if (!w.visited) {
                 w.visited = true;
                 queue.push(w);
